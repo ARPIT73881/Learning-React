@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-bqpPUbeTZP6iRXTxTLwNB7F" target="_blank"><img src="https://i.ibb.co/MfdhRG4/react.png" alt="Main-Cover" border="0"></a>
+   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-bqpPUbeTZP6iRXTxTLwNB7F" target="_blank"><img src="https://github.com/user-attachments/assets/30bcbdd2-8a6b-4c54-8574-9a948a674c1f" alt="Main-Cover" border="0"></a>
   <br />
 
 # Learning React
