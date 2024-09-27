@@ -1,0 +1,20 @@
+.heading {
+  text-align: center;
+}
+
+.section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.btn img {
+  max-width: 40px;
+}
+
+.btn {
+  cursor: pointer;
+}
