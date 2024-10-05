@@ -1,0 +1,13 @@
+.btn {
+  color: purple;
+}
+
+.text {
+  font-size: 4rem;
+  background-color: lightcoral;
+}
+
+.text-xl {
+  font-size: 4rem;
+  background-color: gold;
+}
